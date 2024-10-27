@@ -31,6 +31,8 @@
  ### Structure
  **1. Directory Setup:**
  - **Folder Structure:**
-  - ![](.)
+    ![](https://github.com/rajneeshkumar1507/Cypress-Insights/blob/main/images/Screenshot%202024-10-28%20024423.png)
+**2. Example Page Object**
+- **Login Page Object**
  
 
